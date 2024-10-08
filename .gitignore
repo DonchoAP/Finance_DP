@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# Environment variables file
+.env
+
+# Database migrations
+migrations/
+
+# JetBrains IDE files
+.idea/
