@@ -119,7 +119,7 @@ Dieses Projekt steht unter der MIT-Lizenz.
 
 ---
 
-### Zusammenfassung:
+## Zusammenfassung:
 - Der `README.md` enthält eine vollständige Anleitung zur Installation, Nutzung und Konfiguration der Finanz-App auf Deutsch.
 - Es beschreibt die wichtigsten Funktionen, wie das Hinzufügen von Transaktionen, das Generieren von Berichten und den monatlichen Abschluss.
 - Zudem erklärt es, wie die Anwendung auf einem lokalen Server gestartet wird, und beschreibt die verwendeten Technologien.
