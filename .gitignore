@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -13,3 +14,20 @@ migrations/
 
 # JetBrains IDE files
 .idea/
+=======
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# Environment variables file
+.env
+
+# Database migrations
+migrations/
+
+# JetBrains IDE files
+.idea/
+>>>>>>> 69ae552e20184609c2863a8576937c506af29c90
